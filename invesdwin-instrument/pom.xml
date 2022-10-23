@@ -208,15 +208,10 @@
 
 	<distributionManagement>
 		<repository>
-			<id>invesdwin-oss</id>
-			<name>invesdwin-oss</name>
-			<url>https://invesdwin.de/repo/invesdwin-oss</url>
+			<id>github</id>
+			<name>GitHub jaletechs Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/jaletechs/invesdwin-instrument</url>
 		</repository>
-		<snapshotRepository>
-			<id>invesdwin-oss</id>
-			<name>invesdwin-oss</name>
-			<url>https://invesdwin.de/repo/invesdwin-oss</url>
-		</snapshotRepository>
 	</distributionManagement>
 
 	<repositories>
